@@ -1,6 +1,3 @@
-# Amoury Crate SE covers
-My personal collection of game and app covers for ARMOURY CRATE SE
-
 ## ❕ ⦁ Notes:
 These covers are made in a size of `1000x598` to be used at a resolution of `1600x900`, using them in other resolutions might cause color bars to appear at the edges of the covers.
 
